@@ -1,0 +1,15 @@
+node_modules/
+.npm-cache/
+data/
+artifacts/
+test-results/
+.env
+.env.*
+!.env.example
+*.log
+*.sqlite*
+*.db
+*.pem
+*.key
+*.pfx
+*.p12
